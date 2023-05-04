@@ -1,0 +1,15 @@
+C:\Repo\TechnicalAssessment\TechnicalAssessment\bin\Release\net7.0\TechnicalAssessment.exe
+C:\Repo\TechnicalAssessment\TechnicalAssessment\bin\Release\net7.0\TechnicalAssessment.deps.json
+C:\Repo\TechnicalAssessment\TechnicalAssessment\bin\Release\net7.0\TechnicalAssessment.runtimeconfig.json
+C:\Repo\TechnicalAssessment\TechnicalAssessment\bin\Release\net7.0\TechnicalAssessment.dll
+C:\Repo\TechnicalAssessment\TechnicalAssessment\bin\Release\net7.0\TechnicalAssessment.pdb
+C:\Repo\TechnicalAssessment\TechnicalAssessment\obj\Release\net7.0\TechnicalAssessment.csproj.AssemblyReference.cache
+C:\Repo\TechnicalAssessment\TechnicalAssessment\obj\Release\net7.0\TechnicalAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\TechnicalAssessment\TechnicalAssessment\obj\Release\net7.0\TechnicalAssessment.AssemblyInfoInputs.cache
+C:\Repo\TechnicalAssessment\TechnicalAssessment\obj\Release\net7.0\TechnicalAssessment.AssemblyInfo.cs
+C:\Repo\TechnicalAssessment\TechnicalAssessment\obj\Release\net7.0\TechnicalAssessment.csproj.CoreCompileInputs.cache
+C:\Repo\TechnicalAssessment\TechnicalAssessment\obj\Release\net7.0\TechnicalAssessment.dll
+C:\Repo\TechnicalAssessment\TechnicalAssessment\obj\Release\net7.0\refint\TechnicalAssessment.dll
+C:\Repo\TechnicalAssessment\TechnicalAssessment\obj\Release\net7.0\TechnicalAssessment.pdb
+C:\Repo\TechnicalAssessment\TechnicalAssessment\obj\Release\net7.0\TechnicalAssessment.genruntimeconfig.cache
+C:\Repo\TechnicalAssessment\TechnicalAssessment\obj\Release\net7.0\ref\TechnicalAssessment.dll
